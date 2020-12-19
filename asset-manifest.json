@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-header-navbar/static/css/main.1f70f60b.chunk.css",
+    "main.js": "/react-header-navbar/static/js/main.b2fce119.chunk.js",
+    "main.js.map": "/react-header-navbar/static/js/main.b2fce119.chunk.js.map",
+    "runtime-main.js": "/react-header-navbar/static/js/runtime-main.1db57f93.js",
+    "runtime-main.js.map": "/react-header-navbar/static/js/runtime-main.1db57f93.js.map",
+    "static/js/2.c1f9918b.chunk.js": "/react-header-navbar/static/js/2.c1f9918b.chunk.js",
+    "static/js/2.c1f9918b.chunk.js.map": "/react-header-navbar/static/js/2.c1f9918b.chunk.js.map",
+    "index.html": "/react-header-navbar/index.html",
+    "static/css/main.1f70f60b.chunk.css.map": "/react-header-navbar/static/css/main.1f70f60b.chunk.css.map",
+    "static/js/2.c1f9918b.chunk.js.LICENSE.txt": "/react-header-navbar/static/js/2.c1f9918b.chunk.js.LICENSE.txt",
+    "static/media/logo.f13078c1.svg": "/react-header-navbar/static/media/logo.f13078c1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1db57f93.js",
+    "static/js/2.c1f9918b.chunk.js",
+    "static/css/main.1f70f60b.chunk.css",
+    "static/js/main.b2fce119.chunk.js"
+  ]
+}
